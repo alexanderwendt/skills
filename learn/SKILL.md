@@ -54,7 +54,7 @@ Persist reusable user instructions into the right long-term file without duplica
 
 7. **Verify and report**
    - Re-read or otherwise inspect the edited file to confirm the entry was written once and in the intended location.
-   - Reply with the target file and a brief summary of what changed.
+   - Reply with the target file, a brief summary of what changed, and quote the exact text that was added or changed so the user can see the persisted instruction.
 
 ## Safety
 
